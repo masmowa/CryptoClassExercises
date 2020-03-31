@@ -1,0 +1,207 @@
+Hello World!
+cipher text
+ lrvmnir bpr sumvbwvr jx bpr lmiwv yjeryrkbi jx qmbm wi bpr xjvni mkd ymibrut jx irhx wi bpr riirkvr jx ymbinlmtmipw utn qmumbr dj w ipmhh but bj rhnvwdmbr bpr yjeryrkbi jx bpr qmbm mvvjudwko bj yt wkbrusurbmbwjk lmird jk xjubt trmui jx ibndt wb wi kjb mk rmit bmiq bj rashmwk rmvp yjeryrkb mkd wbi iwokwxwvmkvr mkd ijyr ynib urymwk nkrashmwkrd bj ower m vjyshrbr rashmkmbwjk jkr cjnhd pmer bj lr fnmhwxwrd mkd wkiswurd bj invp mk rabrkb bpmb pr vjnhd urmvp bpr ibmbr jx rkhwopbrkrd ywkd vmsmlhr jx urvjokwgwko ijnkdhrii ijnkd mkd ipmsrhrii ipmsr w dj kjb drry ytirhx bpr xwkmh mnbpjuwbt lnb yt rasruwrkvr cwbp qmbm pmi hrxb kj djnlb bpmb bpr xjhhjcwko wi bpr sujsru msshwvmbwjk mkd wkbrusurbmbwjk w jxxru yt bprjuwri wk bpr pjsr bpmb bpr riirkvr jx jqwkmcmk qmumbr cwhh urymwk wkbmvb
+Percent
+[0]
+[empty][0.010989]
+[1]
+[m][0.010989]
+[w][0.032967]
+[2]
+[jk][0.010989]
+[kj][0.010989]
+[lr][0.010989]
+[pr][0.010989]
+[wb][0.010989]
+[wk][0.010989]
+[dj][0.021978]
+[mk][0.021978]
+[yt][0.032967]
+[wi][0.043956]
+[bj][0.0659341]
+[jx][0.0989011]
+[3]
+[but][0.010989]
+[jkr][0.010989]
+[lnb][0.010989]
+[pmi][0.010989]
+[utn][0.010989]
+[wbi][0.010989]
+[kjb][0.021978]
+[mkd][0.0659341]
+[bpr][0.131868]
+[4]
+[bmiq][0.010989]
+[cwbp][0.010989]
+[cwhh][0.010989]
+[drry][0.010989]
+[hrxb][0.010989]
+[ijyr][0.010989]
+[invp][0.010989]
+[irhx][0.010989]
+[ower][0.010989]
+[pjsr][0.010989]
+[pmer][0.010989]
+[rmit][0.010989]
+[rmvp][0.010989]
+[ynib][0.010989]
+[ywkd][0.010989]
+[bpmb][0.032967]
+[qmbm][0.032967]
+[5]
+[cjnhd][0.010989]
+[djnlb][0.010989]
+[ibmbr][0.010989]
+[ibndt][0.010989]
+[ijnkd][0.010989]
+[ipmhh][0.010989]
+[ipmsr][0.010989]
+[jxxru][0.010989]
+[lmird][0.010989]
+[lmiwv][0.010989]
+[trmui][0.010989]
+[urmvp][0.010989]
+[vjnhd][0.010989]
+[xjubt][0.010989]
+[xjvni][0.010989]
+[xwkmh][0.010989]
+[6]
+[rabrkb][0.010989]
+[sujsru][0.010989]
+[wkbmvb][0.010989]
+[ytirhx][0.010989]
+[qmumbr][0.021978]
+[urymwk][0.021978]
+[7]
+[lrvmnir][0.010989]
+[rashmwk][0.010989]
+[vmsmlhr][0.010989]
+[ymibrut][0.010989]
+[riirkvr][0.021978]
+[8]
+[bprjuwri][0.010989]
+[jqwkmcmk][0.010989]
+[sumvbwvr][0.010989]
+[vjyshrbr][0.010989]
+[wkiswurd][0.010989]
+[yjeryrkb][0.010989]
+[9]
+[fnmhwxwrd][0.010989]
+[ijnkdhrii][0.010989]
+[ipmsrhrii][0.010989]
+[mnbpjuwbt][0.010989]
+[mvvjudwko][0.010989]
+[rhnvwdmbr][0.010989]
+[xjhhjcwko][0.010989]
+[yjeryrkbi][0.021978]
+[10]
+[rasruwrkvr][0.010989]
+[11]
+[msshwvmbwjk][0.010989]
+[nkrashmwkrd][0.010989]
+[rashmkmbwjk][0.010989]
+[rkhwopbrkrd][0.010989]
+[urvjokwgwko][0.010989]
+[12]
+[iwokwxwvmkvr][0.010989]
+[ymbinlmtmipw][0.010989]
+[13]
+[14]
+[wkbrusurbmbwjk][0.021978]
+CT most: qmbm mid: bpmb least: ywkd
+[CIPHER TEXT L4]
+qmbm bpmb ywkd
+Letter Count for words length 4
+b 1
+m 2
+q 1
+Letter Count for words length 4
+b 3
+m 3
+p 1
+q 1
+Letter Count for words length 4
+b 3
+d 1
+k 1
+m 3
+p 1
+q 1
+w 1
+y 1
+[PLAIN TEXT L4]
+that with have
+Letter Count for words length 4
+a 1
+h 1
+t 2
+Letter Count for words length 4
+a 1
+h 2
+i 1
+t 3
+w 1
+Letter Count for words length 4
+a 2
+e 1
+h 3
+i 1
+t 3
+v 1
+w 1
+CT most: bpr mid: mkd least: kjb
+[CIPHER TEXT L3]
+bpr mkd kjb
+Letter Count for words length 4
+b 3
+d 1
+k 1
+m 3
+p 1
+q 1
+w 1
+y 1
+Letter Count for words length 4
+b 3
+d 1
+k 1
+m 3
+p 1
+q 1
+w 1
+y 1
+Letter Count for words length 4
+b 3
+d 1
+k 1
+m 3
+p 1
+q 1
+w 1
+y 1
+[PLAIN TEXT L3]
+the and for
+Letter Count for words length 4
+a 1
+h 1
+t 2
+Letter Count for words length 4
+a 1
+h 2
+i 1
+t 3
+w 1
+Letter Count for words length 4
+a 2
+e 1
+h 3
+i 1
+t 3
+v 1
+w 1
+
+D:\Users\Mark\Documents\GitHub\Crypto\intro\Exercise1.1\AnalyseMessage\Debug\AnalyseMessage.exe (process 8464) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+[GUESS]
+ lrvmnir bpr sumvbwvr jx bpr lmiwv yjeryrkbi jx qmbm wi bpr xjvni mkd ymibrut jx irhx wi bpr riirkvr jx ymbinlmtmipw utn qmumbr dj w ipmhh but bj rhnvwdmbr bpr yjeryrkbi jx bpr qmbm mvvjudwko bj yt wkbrusurbmbwjk lmird jk xjubt trmui jx ibndt wb wi kjb mk rmit bmiq bj rashmwk rmvp yjeryrkb mkd wbi iwokwxwvmkvr mkd ijyr ynib urymwk nkrashmwkrd bj ower m vjyshrbr rashmkmbwjk jkr cjnhd pmer bj lr fnmhwxwrd mkd wkiswurd bj invp mk rabrkb bpmb pr vjnhd urmvp bpr ibmbr jx rkhwopbrkrd ywkd vmsmlhr jx urvjokwgwko ijnkdhrii ijnkd mkd ipmsrhrii ipmsr w dj kjb drry ytirhx bpr xwkmh mnbpjuwbt lnb yt rasruwrkvr cwbp qmbm pmi hrxb kj djnlb bpmb bpr xjhhjcwko wi bpr sujsru msshwvmbwjk mkd wkbrusurbmbwjk w jxxru yt bprjuwri wk bpr pjsr bpmb bpr riirkvr jx jqwkmcmk qmumbr cwhh urymwk wkbmvb

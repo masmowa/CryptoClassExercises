@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AnalyzeCryptoMessage", "AnalyzeCryptoMessage\AnalyzeCryptoMessage.vcxproj", "{F1C5F66E-BA30-4D15-9ADB-E7542C669998}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0C06B0C5-888C-4752-9048-0AB4CC05A211} = {0C06B0C5-888C-4752-9048-0AB4CC05A211}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MasUtils", "..\..\..\..\MasUtils\MasUtils.vcxproj", "{0C06B0C5-888C-4752-9048-0AB4CC05A211}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1C5F66E-BA30-4D15-9ADB-E7542C669998}.Debug|x64.ActiveCfg = Debug|x64
+		{F1C5F66E-BA30-4D15-9ADB-E7542C669998}.Debug|x64.Build.0 = Debug|x64
+		{F1C5F66E-BA30-4D15-9ADB-E7542C669998}.Debug|x86.ActiveCfg = Debug|Win32
+		{F1C5F66E-BA30-4D15-9ADB-E7542C669998}.Debug|x86.Build.0 = Debug|Win32
+		{F1C5F66E-BA30-4D15-9ADB-E7542C669998}.Release|x64.ActiveCfg = Release|x64
+		{F1C5F66E-BA30-4D15-9ADB-E7542C669998}.Release|x64.Build.0 = Release|x64
+		{F1C5F66E-BA30-4D15-9ADB-E7542C669998}.Release|x86.ActiveCfg = Release|Win32
+		{F1C5F66E-BA30-4D15-9ADB-E7542C669998}.Release|x86.Build.0 = Release|Win32
+		{0C06B0C5-888C-4752-9048-0AB4CC05A211}.Debug|x64.ActiveCfg = Debug|x64
+		{0C06B0C5-888C-4752-9048-0AB4CC05A211}.Debug|x64.Build.0 = Debug|x64
+		{0C06B0C5-888C-4752-9048-0AB4CC05A211}.Debug|x86.ActiveCfg = Debug|Win32
+		{0C06B0C5-888C-4752-9048-0AB4CC05A211}.Debug|x86.Build.0 = Debug|Win32
+		{0C06B0C5-888C-4752-9048-0AB4CC05A211}.Release|x64.ActiveCfg = Release|x64
+		{0C06B0C5-888C-4752-9048-0AB4CC05A211}.Release|x64.Build.0 = Release|x64
+		{0C06B0C5-888C-4752-9048-0AB4CC05A211}.Release|x86.ActiveCfg = Release|Win32
+		{0C06B0C5-888C-4752-9048-0AB4CC05A211}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F413E4B3-FA49-477F-A172-31907AEB0C1F}
+	EndGlobalSection
+EndGlobal

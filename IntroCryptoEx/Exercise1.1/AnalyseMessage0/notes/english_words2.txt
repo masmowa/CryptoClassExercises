@@ -1,0 +1,13 @@
+# see : http://practicalcryptography.com/cryptanalysis/letter-frequencies-various-languages/english-letter-frequencies/
+[Common English words]
+      THE :  6.42            ON :  0.78           ARE :  0.47
+       OF :  2.76          WITH :  0.75          THIS :  0.42
+      AND :  2.75            HE :  0.75             I :  0.41
+       TO :  2.67            IT :  0.74           BUT :  0.40
+        A :  2.43            AS :  0.71          HAVE :  0.39
+       IN :  2.31            AT :  0.58            AN :  0.37
+       IS :  1.12           HIS :  0.55           HAS :  0.35
+      FOR :  1.01            BY :  0.51           NOT :  0.34
+     THAT :  0.92            BE :  0.48          THEY :  0.33
+      WAS :  0.88          FROM :  0.47            OR :  0.30
+

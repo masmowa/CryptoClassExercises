@@ -1,0 +1,94 @@
+DecryptMessage-output-2020m10-133433.txt
+input\Exercise1.1.txt
+"input\\Exercise1.1.txt" Exists
+cipher text
+ lrvmnir bpr sumvbwvr jx bpr lmiwv yjeryrkbi jx qmbm wi bpr xjvni mkd ymibrut jx irhx wi bpr riirkvr jx ymbinlmtmipw utn qmumbr dj w ipmhh but bj rhnvwdmbr bpr yjeryrkbi jx bpr qmbm mvvjudwko bj yt wkbrusurbmbwjk lmird jk xjubt trmui jx ibndt wb wi kjb mk rmit bmiq bj rashmwk rmvp yjeryrkb mkd wbi iwokwxwvmkvr mkd ijyr ynib urymwk nkrashmwkrd bj ower m vjyshrbr rashmkmbwjk jkr cjnhd pmer bj lr fnmhwxwrd mkd wkiswurd bj invp mk rabrkb bpmb pr vjnhd urmvp bpr ibmbr jx rkhwopbrkrd ywkd vmsmlhr jx urvjokwgwko ijnkdhrii ijnkd mkd ipmsrhrii ipmsr w dj kjb drry ytirhx bpr xwkmh mnbpjuwbt lnb yt rasruwrkvr cwbp qmbm pmi hrxb kj djnlb bpmb bpr xjhhjcwko wi bpr sujsru msshwvmbwjk mkd wkbrusurbmbwjk w jxxru yt bprjuwri wk bpr pjsr bpmb bpr riirkvr jx jqwkmcmk qmumbr cwhh urymwk wkbmvb
+Letter Count
+a 5
+b 68
+c 5
+d 23
+e 5
+f 1
+g 1
+h 23
+i 41
+j 48
+k 49
+l 8
+m 62
+n 17
+o 7
+p 30
+q 7
+r 84
+s 17
+t 13
+u 24
+v 22
+w 47
+x 20
+y 19
+z 0
+Characters by Count:
+r 84
+b 68
+m 62
+k 49
+j 48
+w 47
+i 41
+p 30
+u 24
+d 23
+h 23
+v 22
+x 20
+y 19
+n 17
+s 17
+t 13
+l 8
+o 7
+q 7
+a 5
+c 5
+e 5
+f 1
+g 1
+z 0
+2020m10-133433
+DecryptMessage-output-2020m10-133433.txt
+Letter Count
+a 5
+b 68
+c 5
+d 23
+e 5
+f 1
+g 1
+h 23
+i 41
+j 48
+k 49
+l 8
+m 62
+n 17
+o 7
+p 30
+q 7
+r 84
+s 17
+t 13
+u 24
+v 22
+w 47
+x 20
+y 19
+z 0
+Percent
+++DecryptMessage
+
+C:\Users\Mark\Documents\GitHub\Crypto\intro\Exercise1.1\AnalyzeCryptoMessage\Debug\AnalyzeCryptoMessage.exe (process 14608) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .

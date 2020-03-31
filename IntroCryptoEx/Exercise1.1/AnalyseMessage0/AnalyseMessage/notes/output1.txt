@@ -1,0 +1,360 @@
+					std::cout << "[empty]" << "[" << itlwd->second << "]" << std::endl;
+					std::cout << "[empty]" << "[" << itlwd->second << "]" << std::endl;
+Hello World!
+cipher text
+ lrvmnir bpr sumvbwvr jx bpr lmiwv yjeryrkbi jx qmbm wi bpr xjvni mkd ymibrut jx irhx wi bpr riirkvr jx ymbinlmtmipw utn qmumbr dj w ipmhh but bj rhnvwdmbr bpr yjeryrkbi jx bpr qmbm mvvjudwko bj yt wkbrusurbmbwjk lmird jk xjubt trmui jx ibndt wb wi kjb mk rmit bmiq bj rashmwk rmvp yjeryrkb mkd wbi iwokwxwvmkvr mkd ijyr ynib urymwk nkrashmwkrd bj ower m vjyshrbr rashmkmbwjk jkr cjnhd pmer bj lr fnmhwxwrd mkd wkiswurd bj invp mk rabrkb bpmb pr vjnhd urmvp bpr ibmbr jx rkhwopbrkrd ywkd vmsmlhr jx urvjokwgwko ijnkdhrii ijnkd mkd ipmsrhrii ipmsr w dj kjb drry ytirhx bpr xwkmh mnbpjuwbt lnb yt rasruwrkvr cwbp qmbm pmi hrxb kj djnlb bpmb bpr xjhhjcwko wi bpr sujsru msshwvmbwjk mkd wkbrusurbmbwjk w jxxru yt bprjuwri wk bpr pjsr bpmb bpr riirkvr jx jqwkmcmk qmumbr cwhh urymwk wkbmvb
+Letter Count
+  138
+a 5
+b 68
+c 5
+d 23
+e 5
+f 1
+g 1
+h 23
+i 41
+j 48
+k 49
+l 8
+m 62
+n 17
+o 7
+p 30
+q 7
+r 84
+s 17
+t 13
+u 24
+v 22
+w 47
+x 20
+y 19
+Word Count
+ 1
+bj 6
+bmiq 1
+bpmb 3
+bpr 12
+bprjuwri 1
+but 1
+cjnhd 1
+cwbp 1
+cwhh 1
+dj 2
+djnlb 1
+drry 1
+fnmhwxwrd 1
+hrxb 1
+ibmbr 1
+ibndt 1
+ijnkd 1
+ijnkdhrii 1
+ijyr 1
+invp 1
+ipmhh 1
+ipmsr 1
+ipmsrhrii 1
+irhx 1
+iwokwxwvmkvr 1
+jk 1
+jkr 1
+jqwkmcmk 1
+jx 9
+jxxru 1
+kj 1
+kjb 2
+lmird 1
+lmiwv 1
+lnb 1
+lr 1
+lrvmnir 1
+m 1
+mk 2
+mkd 6
+mnbpjuwbt 1
+msshwvmbwjk 1
+mvvjudwko 1
+nkrashmwkrd 1
+ower 1
+pjsr 1
+pmer 1
+pmi 1
+pr 1
+qmbm 3
+qmumbr 2
+rabrkb 1
+rashmkmbwjk 1
+rashmwk 1
+rasruwrkvr 1
+rhnvwdmbr 1
+riirkvr 2
+rkhwopbrkrd 1
+rmit 1
+rmvp 1
+sujsru 1
+sumvbwvr 1
+trmui 1
+urmvp 1
+urvjokwgwko 1
+urymwk 2
+utn 1
+vjnhd 1
+vjyshrbr 1
+vmsmlhr 1
+w 3
+wb 1
+wbi 1
+wi 4
+wk 1
+wkbmvb 1
+wkbrusurbmbwjk 2
+wkiswurd 1
+xjhhjcwko 1
+xjubt 1
+xjvni 1
+xwkmh 1
+yjeryrkb 1
+yjeryrkbi 2
+ymbinlmtmipw 1
+ymibrut 1
+ynib 1
+yt 3
+ytirhx 1
+ywkd 1
+Percent
+Letter Percent
+  5.30769
+a 0.192308
+b 2.61538
+c 0.192308
+d 0.884615
+e 0.192308
+f 0.0384615
+g 0.0384615
+h 0.884615
+i 1.57692
+j 1.84615
+k 1.88462
+l 0.307692
+m 2.38462
+n 0.653846
+o 0.269231
+p 1.15385
+q 0.269231
+r 3.23077
+s 0.653846
+t 0.5
+u 0.923077
+v 0.846154
+w 1.80769
+x 0.769231
+y 0.730769
+Word Percent
+bj 0.0659341
+bmiq 0.010989
+bpmb 0.032967
+bpr 0.131868
+bprjuwri 0.010989
+but 0.010989
+cjnhd 0.010989
+cwbp 0.010989
+cwhh 0.010989
+dj 0.021978
+djnlb 0.010989
+drry 0.010989
+fnmhwxwrd 0.010989
+hrxb 0.010989
+ibmbr 0.010989
+ibndt 0.010989
+ijnkd 0.010989
+ijnkdhrii 0.010989
+ijyr 0.010989
+invp 0.010989
+ipmhh 0.010989
+ipmsr 0.010989
+ipmsrhrii 0.010989
+irhx 0.010989
+iwokwxwvmkvr 0.010989
+jk 0.010989
+jkr 0.010989
+jqwkmcmk 0.010989
+jx 0.0989011
+jxxru 0.010989
+kj 0.010989
+kjb 0.021978
+lmird 0.010989
+lmiwv 0.010989
+lnb 0.010989
+lr 0.010989
+lrvmnir 0.010989
+m 0.010989
+mk 0.021978
+mkd 0.0659341
+mnbpjuwbt 0.010989
+msshwvmbwjk 0.010989
+mvvjudwko 0.010989
+nkrashmwkrd 0.010989
+ower 0.010989
+pjsr 0.010989
+pmer 0.010989
+pmi 0.010989
+pr 0.010989
+qmbm 0.032967
+qmumbr 0.021978
+rabrkb 0.010989
+rashmkmbwjk 0.010989
+rashmwk 0.010989
+rasruwrkvr 0.010989
+rhnvwdmbr 0.010989
+riirkvr 0.021978
+rkhwopbrkrd 0.010989
+rmit 0.010989
+rmvp 0.010989
+sujsru 0.010989
+sumvbwvr 0.010989
+trmui 0.010989
+urmvp 0.010989
+urvjokwgwko 0.010989
+urymwk 0.021978
+utn 0.010989
+vjnhd 0.010989
+vjyshrbr 0.010989
+vmsmlhr 0.010989
+w 0.032967
+wb 0.010989
+wbi 0.010989
+wi 0.043956
+wk 0.010989
+wkbmvb 0.010989
+wkbrusurbmbwjk 0.021978
+wkiswurd 0.010989
+xjhhjcwko 0.010989
+xjubt 0.010989
+xjvni 0.010989
+xwkmh 0.010989
+yjeryrkb 0.010989
+yjeryrkbi 0.021978
+ymbinlmtmipw 0.010989
+ymibrut 0.010989
+ynib 0.010989
+yt 0.032967
+ytirhx 0.010989
+ywkd 0.010989
+[empty][0.010989]
+
+[m][0.010989]
+[w][0.032967]
+
+[jk][0.010989]
+[kj][0.010989]
+[lr][0.010989]
+[pr][0.010989]
+[wb][0.010989]
+[wk][0.010989]
+[dj][0.021978]
+[mk][0.021978]
+[yt][0.032967]
+[wi][0.043956]      (AS)(IS)
+[bj][0.0659341]     (TO)
+[jx][0.0989011]
+
+[but][0.010989]         T??
+[jkr][0.010989]         ??E
+[lnb][0.010989]         ??T
+[pmi][0.010989]         ??S
+[utn][0.010989]         ??S
+[wbi][0.010989]         ATS(ITS)
+[kjb][0.021978]         
+[mkd][0.0659341]
+[bpr][0.131868]         (THE)
+
+[bmiq][0.010989]
+[cwbp][0.010989]
+[cwhh][0.010989]
+[drry][0.010989]
+[hrxb][0.010989]
+[ijyr][0.010989]
+[invp][0.010989]
+[irhx][0.010989]
+[ower][0.010989]
+[pjsr][0.010989]
+[pmer][0.010989]
+[rmit][0.010989]
+[rmvp][0.010989]
+[ynib][0.010989]
+[ywkd][0.010989]
+[bpmb][0.032967]
+[qmbm][0.032967]
+
+[cjnhd][0.010989]
+[djnlb][0.010989]
+[ibmbr][0.010989]
+[ibndt][0.010989]
+[ijnkd][0.010989]
+[ipmhh][0.010989]
+[ipmsr][0.010989]
+[jxxru][0.010989]
+[lmird][0.010989]
+[lmiwv][0.010989]
+[trmui][0.010989]
+[urmvp][0.010989]
+[vjnhd][0.010989]
+[xjubt][0.010989]
+[xjvni][0.010989]
+[xwkmh][0.010989]
+
+[rabrkb][0.010989]
+[sujsru][0.010989]
+[wkbmvb][0.010989]
+[ytirhx][0.010989]
+[qmumbr][0.021978]
+[urymwk][0.021978]
+
+[lrvmnir][0.010989]
+[rashmwk][0.010989]
+[vmsmlhr][0.010989]
+[ymibrut][0.010989]
+[riirkvr][0.021978]
+
+[bprjuwri][0.010989]
+[jqwkmcmk][0.010989]
+[sumvbwvr][0.010989]
+[vjyshrbr][0.010989]
+[wkiswurd][0.010989]
+[yjeryrkb][0.010989]
+
+[fnmhwxwrd][0.010989]
+[ijnkdhrii][0.010989]
+[ipmsrhrii][0.010989]
+[mnbpjuwbt][0.010989]
+[mvvjudwko][0.010989]
+[rhnvwdmbr][0.010989]
+[xjhhjcwko][0.010989]
+[yjeryrkbi][0.021978]
+
+[rasruwrkvr][0.010989]
+
+[msshwvmbwjk][0.010989]
+[nkrashmwkrd][0.010989]
+[rashmkmbwjk][0.010989]
+[rkhwopbrkrd][0.010989]
+[urvjokwgwko][0.010989]
+
+[iwokwxwvmkvr][0.010989]
+[ymbinlmtmipw][0.010989]
+
+[wkbrusurbmbwjk][0.021978]
+
+D:\Users\Mark\Documents\GitHub\Crypto\intro\Exercise1.1\AnalyseMessage\Debug\AnalyseMessage.exe (process 6872) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
+the, and, for, are, but, not, you, all, any, can, had, her, was, one, our, out, day, get, has, him, his, how, man, new, now, old, see, two, way, who, boy, did, its, let, put, say, she, too, use
+and, are, any, 
+
+[guesses]
+lrvmnir bpr sumvbwvr jx bpr lmiwv yjeryrkbi jx qmbm wi bpr xjvni mkd ymibrut jx irhx wi bpr riirkvr jx ymbinlmtmipw utn qmumbr dj w ipmhh but bj rhnvwdmbr bpr yjeryrkbi jx bpr qmbm mvvjudwko bj yt wkbrusurbmbwjk lmird jk xjubt trmui jx ibndt wb wi kjb mk rmit bmiq bj rashmwk rmvp yjeryrkb mkd wbi iwokwxwvmkvr mkd ijyr ynib urymwk nkrashmwkrd bj ower m vjyshrbr rashmkmbwjk jkr cjnhd pmer bj lr fnmhwxwrd mkd wkiswurd bj invp mk rabrkb bpmb pr vjnhd urmvp bpr ibmbr jx rkhwopbrkrd ywkd vmsmlhr jx urvjokwgwko ijnkdhrii ijnkd mkd ipmsrhrii ipmsr w dj kjb drry ytirhx bpr xwkmh mnbpjuwbt lnb yt rasruwrkvr cwbp qmbm pmi hrxb kj djnlb bpmb bpr xjhhjcwko wi bpr sujsru msshwvmbwjk mkd wkbrusurbmbwjk w jxxru yt bprjuwri wk bpr pjsr bpmb bpr riirkvr jx jqwkmcmk qmumbr cwhh urymwk wkbmvb
+lrvInSr THE suIvTAvr jx THE lISAv yjeryrkTS jx qITI AS THE xjvnS Ikd yISTrut jx Srhx AS THE rSSrkvr jx yITSnlItISpA utn qIuITr dj A SpIhh Tut TO rhnvAdITr THE yjeryrkTS jx THE qITI IvvjudAko TO yt AkTrusurTITAjk lISrd jk xjuTt trIuS jx STndt AT AS kjT Ik rISt TISq TO rashIAk rIvp yjeryrkT Ikd ATS SAokAxAvIkvr Ikd Sjyr ynST uryIAk nkrashIAkrd TO oAer I vjyshrTr rashIkITAjk jkr cjnhd pIer TO lr fnIhAxArd Ikd AkSsAurd TO Snvp Ik raTrkT THIT pr vjnhd urIvp THE STITr jx rkhAopTrkrd yAkd vIsIlhr jx urvjokAgAko SjnkdhrSS Sjnkd Ikd SpIsrhrSS SpIsr A dj kjT drry ytSrhx THE xAkIh InTHjuATt lnT yt rasruArkvr cATH qITI pIS hrxT kj djnlT THIT THE xjhhjcAko AS THE sujsru IsshAvITAjk Ikd AkTrusurTITAjk A jxxru yt THrjuArS Ak THE pjsr THIT THE rSSrkvr jx jqAkIcIk qIuITr cAhh uryIAk AkTIvT
+lEvAnSE THE sRAvTIvE OF THE lASIv MOeEMENTS OF DATA IS THE FOvnS AND MASTERY OF SELF IS THE ESSENvE OF MATSnlAYASHI RYn DARATE dO I SHALL TRY TO ELnvIdATE THE MOeEMENTS OF THE DATA AvvORdINo TO MY INTERsRETATION lASEd ON FORTY YEARS OF STndY IT IS NOT AN EASY TASD TO EasLAIN EAvH MOeEMENT AND ITS SIoNIFIvANvE AND SOME MnST REMAIN nNEasLAINEd TO oIeE A vOMsLETE EasLANATION ONE cOnLd HAeE TO lE fnALIFIEd AND INSsIREd TO SnvH AN EaTENT THAT HE vOnLd REAvH THE STATE OF ENLIoHTENEd MIND vAsAlLE OF REvOoNIgINo SOnNDLESS SOnND AND SHAsELESS SHAsE I dO NOT dEEM MYSELF THE FINAL AnTHORITY lnT MY EasERIENvE cITH DATA HAS LEFT NO dOnlT THAT THE FOLLOcINo IS THE sROsER AssLIvATION AND INTERsRETATION I OFFER MY THEORIES IN THE HOsE THAT THE ESSENvE OF ODINAcAN DARATE cILL REMAIN INTAvT
+lEvAnSE THE sRAvTIvE OF THE lASIv MOeEMEkTS OF DATA IS THE FOvnS ANY MASTERt OF SELF IS THE ESSEkvE OF MATSnlAtASHI Rtn DARATE dO I SHALL TRt TO ELnvIdATE THE MOeEMEkTS OF THE DATA AvvORdIko TO Mt IkTERsRETATIOk lASEd Ok FORTt tEARS OF STndt IT IS kOT Ak EASt TASD TO EasLAIk EAvH MOeEMEkT ANY ITS SIokIFIvAkvE ANY SOME MnST REMAIk nkEasLAIkEd TO oIeE A vOMsLETE EasLAkATIOk OkE cOnLd HAeE TO lE fnALIFIEd ANY IkSsIREd TO SnvH Ak EaTEkT THAT HE vOnLd REAvH THE STATE OF EkLIoHTEkEd MINY vAsAlLE OF REvOokIgIko SOnNYLESS SOnNY ANY SHAsELESS SHAsE I dO kOT dEEM MtSELF THE FIkAL AnTHORITt lnT Mt EasERIEkvE cITH DATA HAS LEFT kO dOnlT THAT THE FOLLOcIko IS THE sROsER AssLIvATIOk ANY IkTERsRETATIOk I OFFER Mt THEORIES Ik THE HOsE THAT THE ESSEkvE OF ODIkAcAk DARATE cILL REMAIk IkTAvT

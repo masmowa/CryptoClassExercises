@@ -1,0 +1,228 @@
+20200311-064953
+DecryptMessage-output-20200311-064953.txt
+cipher text
+ lrvmnir bpr sumvbwvr jx bpr lmiwv yjeryrkbi jx qmbm wi bpr xjvni mkd ymibrut jx irhx wi bpr riirkvr jx ymbinlmtmipw utn qmumbr dj w ipmhh but bj rhnvwdmbr bpr yjeryrkbi jx bpr qmbm mvvjudwko bj yt wkbrusurbmbwjk lmird jk xjubt trmui jx ibndt wb wi kjb mk rmit bmiq bj rashmwk rmvp yjeryrkb mkd wbi iwokwxwvmkvr mkd ijyr ynib urymwk nkrashmwkrd bj ower m vjyshrbr rashmkmbwjk jkr cjnhd pmer bj lr fnmhwxwrd mkd wkiswurd bj invp mk rabrkb bpmb pr vjnhd urmvp bpr ibmbr jx rkhwopbrkrd ywkd vmsmlhr jx urvjokwgwko ijnkdhrii ijnkd mkd ipmsrhrii ipmsr w dj kjb drry ytirhx bpr xwkmh mnbpjuwbt lnb yt rasruwrkvr cwbp qmbm pmi hrxb kj djnlb bpmb bpr xjhhjcwko wi bpr sujsru msshwvmbwjk mkd wkbrusurbmbwjk w jxxru yt bprjuwri wk bpr pjsr bpmb bpr riirkvr jx jqwkmcmk qmumbr cwhh urymwk wkbmvb
+Letter Count
+a 5
+b 68
+c 5
+d 23
+e 5
+f 1
+g 1
+h 23
+i 41
+j 48
+k 49
+l 8
+m 62
+n 17
+o 7
+p 30
+q 7
+r 84
+s 17
+t 13
+u 24
+v 22
+w 47
+x 20
+y 19
+z 0
+Characters by Count:
+r 84
+b 68
+m 62
+k 49
+j 48
+w 47
+i 41
+p 30
+u 24
+d 23
+h 23
+v 22
+x 20
+y 19
+n 17
+s 17
+t 13
+l 8
+o 7
+q 7
+a 5
+c 5
+e 5
+f 1
+g 1
+z 0
+++CipherText::CreateWordSizeVectorCollection()
+[1] [0]
+[empty][1]
+[2] [1]
+[w][3]
+[m][1]
+[12] [2]
+[jx][9]
+[bj][6]
+[wi][4]
+[yt][3]
+[dj][2]
+[mk][2]
+[jk][1]
+[kj][1]
+[lr][1]
+[pr][1]
+[wb][1]
+[wk][1]
+[9] [3]
+[bpr][12]
+[mkd][6]
+[kjb][2]
+[but][1]
+[jkr][1]
+[lnb][1]
+[pmi][1]
+[utn][1]
+[wbi][1]
+[17] [4]
+[bpmb][3]
+[qmbm][3]
+[bmiq][1]
+[cwbp][1]
+[cwhh][1]
+[drry][1]
+[hrxb][1]
+[ijyr][1]
+[invp][1]
+[irhx][1]
+[ower][1]
+[pjsr][1]
+[pmer][1]
+[rmit][1]
+[rmvp][1]
+[ynib][1]
+[ywkd][1]
+[16] [5]
+[cjnhd][1]
+[djnlb][1]
+[ibmbr][1]
+[ibndt][1]
+[ijnkd][1]
+[ipmhh][1]
+[ipmsr][1]
+[jxxru][1]
+[lmird][1]
+[lmiwv][1]
+[trmui][1]
+[urmvp][1]
+[vjnhd][1]
+[xjubt][1]
+[xjvni][1]
+[xwkmh][1]
+[6] [6]
+[qmumbr][2]
+[urymwk][2]
+[rabrkb][1]
+[sujsru][1]
+[wkbmvb][1]
+[ytirhx][1]
+[5] [7]
+[riirkvr][2]
+[lrvmnir][1]
+[rashmwk][1]
+[vmsmlhr][1]
+[ymibrut][1]
+[6] [8]
+[bprjuwri][1]
+[jqwkmcmk][1]
+[sumvbwvr][1]
+[vjyshrbr][1]
+[wkiswurd][1]
+[yjeryrkb][1]
+[8] [9]
+[yjeryrkbi][2]
+[fnmhwxwrd][1]
+[ijnkdhrii][1]
+[ipmsrhrii][1]
+[mnbpjuwbt][1]
+[mvvjudwko][1]
+[rhnvwdmbr][1]
+[xjhhjcwko][1]
+[1] [10]
+[rasruwrkvr][1]
+[5] [11]
+[msshwvmbwjk][1]
+[nkrashmwkrd][1]
+[rashmkmbwjk][1]
+[rkhwopbrkrd][1]
+[urvjokwgwko][1]
+[2] [12]
+[iwokwxwvmkvr][1]
+[ymbinlmtmipw][1]
+[0] [13]
+[1] [14]
+[wkbrusurbmbwjk][2]
+--CipherText::CreateWordSizeVectorCollection()
+Percent
+++DecryptMessage()
+CT[bpr] guess PT[the]
+CT[but] guess PT[and]
+
+guess: CT:[b] Eng: [t] eng guess: [a]
+CT[bj] guess PT[of]
+CT[dj] guess PT[to]
+
+guess: CT:[b] Eng: [t] eng guess: [o]
+guess: CT:[j] Eng: [f] eng guess: [o]
+CT[bmiq] guess PT[that]
+CT[bpmb] guess PT[with]
+
+guess: CT:[b] Eng: [t] eng guess: [t]
+guess: CT:[b] Eng: [t] eng guess: [w]
+guess: CT:[p] Eng: [h] eng guess: [i]
+guess: CT:[m] Eng: [h] eng guess: [t]
+guess: CT:[b] Eng: [t] eng guess: [h]
+key: r val: e eng guess: e
+key: b val: t eng guess: t
+key: m val: h eng guess: a
+key: j val: f eng guess: o
+key: i val: a eng guess: i
+key: p val: h eng guess: i
+key: u val: n eng guess: i
+key: d val: t eng guess: i
+key: t val: d eng guess: l
+Guess0
+[a, ?]
+[b, t]
+[c, ?]
+[d, t]
+[e, ?]
+[f, ?]
+[g, ?]
+[h, i]
+[i, a]
+[j, f]
+[k, a]
+[l, ?]
+[m, h]
+[n, r]
+[o, ?]
+[p, h]
+[q, t]
+[r, e]
+[s, d]
+[t, d]
+[u, n]
+[v, n]
+[w, o]
+[x, s]
+[y, h]
+[z, ?]
+Characters Count order:
+rbmkjwipudhvxynstloqacefgz
+etaoinshrdlcumwfgypbvkjxqz
+
+Decryption guess 0:
+ lENHRAE THE DNHNTONE FS THE lHAON HFeEHEATA FS THTH OA THE SFNRA HAT HHATEND FS AEIS OA THE EAAEANE FS HHTARlHDHAHO NDR THNHTE TF O AHHII TND TF EIRNOTHTE THE HFeEHEATA FS THE THTH HNNFNTOAo TF HD OATENDNETHTOFA lHAET FA SFNTD DEHNA FS ATRTD OT OA AFT HA EHAD THAT TF EaDIHOA EHNH HFeEHEAT HAT OTA AOoAOSONHANE HAT AFHE HRAT NEHHOA RAEaDIHOAET TF oOeE H NFHDIETE EaDIHAHTOFA FAE cFRIT HHeE TF lE fRHIOSOET HAT OAADONET TF ARNH HA EaTEAT THHT HE NFRIT NEHNH THE ATHTE FS EAIOoHTEAET HOAT NHDHlIE FS NENFoAOgOAo AFRATIEAA AFRAT HAT AHHDEIEAA AHHDE O TF AFT TEEH HDAEIS THE SOAHI HRTHFNOTD lRT HD EaDENOEANE cOTH THTH HHA IEST AF TFRlT THHT THE SFIIFcOAo OA THE DNFDEN HDDIONHTOFA HAT OATENDNETHTOFA O FSSEN HD THEFNOEA OA THE HFDE THHT THE EAAEANE FS FTOAHcHA THNHTE cOII NEHHOA OATHNT
+--DecryptMessage()
